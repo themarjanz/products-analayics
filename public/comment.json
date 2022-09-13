@@ -1,0 +1,65 @@
+[
+  {
+    "id": "01",
+    "name": "Jhon Anday",
+    "comment":"We have been purchasing furniture from Durian since the last 10 years. We appreciate their prompt service and so far we have faced no complaints with their furniture.",
+    "img": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating":5
+  },
+  {
+    "id": "02",
+    "name": "R K Varma",
+    "comment":"... their variety of products, range and comparatively cheaper price. Service provided was also good.",
+    "img": "https://images.pexels.com/photos/8638014/pexels-photo-8638014.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating":5
+  },
+  {
+    "id": "03",
+    "name": "N.C. Panda",
+    "comment":"The services provided by the officials was smooth and satisfactory. Products and goods delivered were up to satisfaction… and compared to market price.",
+    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rating":5
+  },
+  {
+    "id": "04",
+    "name": "Vinod Pillai",
+    "comment":"We purchased so many products from durian and we would recommend Durian Furniture to everyone who needs quality and decent looking furniture.",
+    "img": "https://images.pexels.com/photos/3990502/pexels-photo-3990502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rating":4
+  },
+  {
+    "id": "05",
+    "name": "Kanwal Bedi",
+    "comment":"We have faith in Durian and in their product range. Quality branded product.",
+    "img": "https://images.pexels.com/photos/1854865/pexels-photo-1854865.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating":3
+  },
+  {
+    "id": "06",
+    "name": "Manoj Kumar",
+    "comment":"Very satisfied with the work. Will work again in the future. Luxurious look and durability.",
+    "img": "https://images.pexels.com/photos/3214785/pexels-photo-3214785.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating":4
+  },
+  {
+    "id": "07",
+    "name": "Hiral Valia",
+    "comment":"The office furniture is ergonomic in design, it is very comfortable to use for long hours in office. Be it design, comfort or the shopping experience, it ticks all the boxes for us.",
+    "img": "https://images.pexels.com/photos/3030327/pexels-photo-3030327.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating":5
+  },
+  {
+    "id": "08",
+    "name": "Annamalai",
+    "comment":"Very attractive collection. We roamed and roamed but we didn't find quality items. Finally we entered to Durian. Really satisfied with quality and service. Professional approach of staffs.",
+    "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating":4
+  },
+  {
+    "id": "09",
+    "name": "Mrs. Sonu Tiwari",
+    "comment":"Purchased office chairs 5 years ago. Found them to be aesthetic and durable. Currently still using the same products.",
+    "img": "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rating":5
+  }
+]
